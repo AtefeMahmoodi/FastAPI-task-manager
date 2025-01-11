@@ -137,12 +137,6 @@ The API includes standard HTTP status codes:
 - 422: Validation error
 - 500: Server error
 
-## Testing
-
-To run the tests (once implemented):
-```bash
-pytest
-```
 
 ## Contributing
 
